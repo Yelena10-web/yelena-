@@ -1,2 +1,1 @@
 Cours Informatique
-Cours informatique

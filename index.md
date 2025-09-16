@@ -1,2 +1,2 @@
 # Website UBO 
-# [https://ent.univ-brest.fr/web/expanded] 
+# [Ent](https://ent.univ-brest.fr/web/expanded) 

@@ -5,7 +5,7 @@ title: Accueil
 
 # Bienvenue sur mon site 🎉
 
-Ceci est ma page d'accueil.
+![image chat](https://static.vecteezy.com/ti/vecteur-libre/p1/17047854-illustration-de-chat-mignon-chat-kawaii-chibi-style-de-dessin-dessin-anime-de-chat-vectoriel.jpg) 
 
 ## Navigation
 - [À propos](about.md)

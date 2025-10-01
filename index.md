@@ -2,10 +2,6 @@
  
 ![image bienvenue](https://tse1.mm.bing.net/th/id/OIP.oKlj5j8jXcFpj7VnYQly3AHaEJ?rs=1&pid=ImgDetMain&o=7&rm=3) 
 
-## Navigation
-- [À propos](about.md)
-- [Projets](projects.md)
-
 ---
 
 ---

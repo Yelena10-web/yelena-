@@ -36,7 +36,7 @@ Quelques infos sur moi ✨
 ---
 
 ---
-# LinkedIn
+# LinkedIn 📂
 - [LinkedIn](https://www.linkedin.com/in/y%C3%A9l%C3%A9na-costard-0390182b0/)
   
 # Contact 📬

@@ -3,6 +3,7 @@ layout: default
 title: Accueil
 ---
 
+<h1 style="color: red;"><Bienvenue sur mon site</h1> 
 # Bienvenue sur mon site 🎉 
 🔴 Red Circle
 

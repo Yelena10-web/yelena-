@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Accueil
+
 ---
 
 # <span style="color:red;">Bienvenue sur mon site</span> 🎉 
@@ -10,38 +9,36 @@ title: Accueil
 ## Navigation
 - [À propos](about.md)
 - [Projets](projects.md)
-- [LinkedIn](https://www.linkedin.com/in/y%C3%A9l%C3%A9na-costard-0390182b0/) 
 ---
-layout: default
-title: À propos
+
 ---
 
 # À propos
 
 Quelques infos sur moi ✨
 
-- Mon parcours
-- Mes compétences
-- Mes centres d’intérêt
+- J'ai 22 ans
+- Je suis diplomée d'une licence LEA Anglais/Espagnol
+- Je suis partie 4 mois à Barcelone 
 
 👉 Retour à [l’accueil](index.md)
 ---
-layout: default
-title: Projets
+
 ---
 
 # Mes projets 🚀
 
-- **Projet A** : petite description
-- **Projet B** : petite description
-- **Projet C** : petite description
+- **Projet A** : Avoir mon master
+- **Projet B** : Trouver une entreprise qui me convienne
+- **Projet C** : Devenir plus indépendante
 
 👉 Retour à [l’accueil](index.md)
 ---
-layout: default
-title: Contact
----
 
+---
+# LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/y%C3%A9l%C3%A9na-costard-0390182b0/)
+  
 # Contact 📬
 
 Vous pouvez me joindre à :  

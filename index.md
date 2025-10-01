@@ -2,7 +2,7 @@
   body {
     margin: 0;
    font-family: Arial, sans-serif;
-   background: #F5C7D1; /* rose poudrée */
+   background: #FADADD; /* rose poudrée */
   }
 </style>
 

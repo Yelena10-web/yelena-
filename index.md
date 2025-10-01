@@ -10,7 +10,7 @@ Ceci est ma page d'accueil.
 ## Navigation
 - [À propos](about.md)
 - [Projets](projects.md)
-- [Contact](contact.md)
+- [LinkedIn](https://www.linkedin.com/in/y%C3%A9l%C3%A9na-costard-0390182b0/) 
 ---
 layout: default
 title: À propos

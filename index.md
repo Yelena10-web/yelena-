@@ -3,7 +3,8 @@ layout: default
 title: Accueil
 ---
 
-# Bienvenue sur mon site 🎉 $${\color{red}This\ is\ red\ text}$$ 
+# Bienvenue sur mon site 🎉 
+🔴 Red Circle
 
 ![image bienvenue](https://tse1.mm.bing.net/th/id/OIP.oKlj5j8jXcFpj7VnYQly3AHaEJ?rs=1&pid=ImgDetMain&o=7&rm=3)  
 

@@ -45,6 +45,6 @@ title: Contact
 # Contact 📬
 
 Vous pouvez me joindre à :  
-**costardyelena@gmail.Com**
+**costardyelena@gmail.com**
 
 👉 Retour à [l’accueil](index.md)

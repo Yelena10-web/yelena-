@@ -55,14 +55,5 @@ Vous pouvez me joindre à :
 
 👉 Retour à [l’accueil](index.md)
 
-body {
-  background-color: white;
-  color: black;
-  transition: 0.3s ease;
-}
-
-body.dark-mode {
-  background-color: #121212;
-  color: white;
-}
+<button id="theme-toggle">🌞 / 🌙</button>
 

@@ -55,16 +55,8 @@ Vous pouvez me joindre à :
 
 👉 Retour à [l’accueil](index.md)
 
-<script>
-  // Activar modo claro/oscuro con memoria
-  const btnMode = document.getElementById('toggle-mode');
-  const key = 'pref-theme';
-  const saved = localStorage.getItem(key);
-  if (saved === 'dark') document.body.classList.add('dark');
-  btnMode.addEventListener('click', () => {
-    document.body.classList.toggle('dark');
-    localStorage.setItem(key, document.body.classList.contains('dark') ? 'dark' : 'light');
-  });
-</script>
+if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+  document.body.classList.add('dark-mode');
+}
 
 

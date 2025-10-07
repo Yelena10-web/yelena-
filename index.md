@@ -55,5 +55,16 @@ Vous pouvez me joindre à :
 
 👉 Retour à [l’accueil](index.md)
 
-<button id="theme-toggle">🌞 / 🌙</button>
+<script>
+  // Activar modo claro/oscuro con memoria
+  const btnMode = document.getElementById('toggle-mode');
+  const key = 'pref-theme';
+  const saved = localStorage.getItem(key);
+  if (saved === 'dark') document.body.classList.add('dark');
+  btnMode.addEventListener('click', () => {
+    document.body.classList.toggle('dark');
+    localStorage.setItem(key, document.body.classList.contains('dark') ? 'dark' : 'light');
+  });
+</script>
+
 

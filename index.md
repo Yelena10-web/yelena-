@@ -55,8 +55,5 @@ Vous pouvez me joindre à :
 
 👉 Retour à [l’accueil](index.md)
 
-if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-  document.body.classList.add('dark-mode');
-}
 
 
